@@ -1,3 +1,5 @@
-body {
-	background: #0979B5;
+#container {
+	background: gray;
+	width: 400px;
+	margin: 0 auto;
 }
