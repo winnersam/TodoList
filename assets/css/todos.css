@@ -1,5 +1,5 @@
 #container {
-	background: gray;
 	width: 400px;
 	margin: 0 auto;
+	border: 2px solid gray;
 }
